@@ -1,0 +1,1383 @@
+@media (min-width: 1365px) {
+     .container {
+          max-width: 1368px !important;
+     }
+}
+
+@media (max-width: 1400px) {
+     .events-slider, .resource-slider, .related-slider, .studie-slider2, .product-slider, .customer-slider {
+          padding-left: calc(50vw - 642px) !important;
+     }
+
+     .product-slider {
+          padding-left: calc(50vw - 679px) !important;
+     }
+
+     .product-sec .swiper-indicator {
+          max-width: 1347px;
+     }
+
+}
+
+@media (max-width: 1365px) {
+     .hero-sec .img-holder {
+          bottom: -92px;
+          right: -16px;
+          width: 286px;
+     }
+
+     .studie-box .card-footer h5 {
+          min-height: 185px;
+     }
+
+     .slider-box .right-content {
+          padding: 40px;
+     }
+
+     .product-sec .product-slider {
+          padding-left: calc(50vw - 558px) !important;
+     }
+
+     .accelerat-sec .image-holder {
+          left: 16px;
+     }
+
+     .office-box .office-box-body {
+          margin-bottom: 10px;
+          min-height: 324px;
+     }
+
+
+     .service-page .hero-sec .img-holder img {
+          width: 100%;
+     }
+
+     .team-sec .team-cards {
+          margin-top: 0px;
+          padding: 72px 0px 0px;
+     }
+
+     .team-sec .team-cards .service-circle {
+          height: 195px;
+          margin-top: -24px;
+     }
+
+     .service-page .hero-sec .img-holder {
+          bottom: -20px;
+          width: 100%;
+     }
+
+     .product-sec .swiper-indicator {
+          max-width: 1122px;
+     }
+
+
+     .product-page .accelerat-sec.contact-sec .image-holder {
+          margin: -70px 0px;
+          position: relative;
+          left: 0;
+     }
+
+     .product-inner .mySwiper2 {
+          margin-top: 58px;
+     }
+
+     .product-page .product-slider,
+     .service .product-slider {
+          padding-left: calc(50vw - 560px) !important;
+     }
+
+     .accordion-boxes .accordion-body {
+          padding: 0px 24px 24px 64px;
+     }
+
+     .events-slider, .resource-slider, .related-slider, .studie-slider2, .product-slider, .customer-slider {
+          padding-left: calc(50vw - 535px) !important;
+     }
+
+     .swiper-indicator {
+          max-width: 1062px;
+     }
+
+     .studie-sec .swiper-indicator {
+          max-width: 100%;
+     }
+
+     .hero-right {
+          margin-right: -40px;
+     }
+
+     .about-page .hero-sec .img-holder {
+          width: 100%;
+     }
+
+     .service-box .text-box p {
+          min-height: 94px;
+     }
+
+     .accordion-boxes .accordion-button {
+          font-size: 18px;
+     }
+
+     .slider-box .right-content p {
+          margin: 12px 0px 46px;
+     }
+
+     h2 {
+          font-size: 40px;
+          line-height: 56px;
+     }
+
+     .about-page .hero-sec .img-holder {
+          bottom: -85px;
+     }
+
+     .market-page .hero-sec .img-holder {
+          bottom: -112px;
+          width: 100%;
+     }
+}
+
+@media (max-width: 1199px) {
+     h1 {
+          font-size: 66px;
+          line-height: 82px;
+     }
+
+     .report-sec .report-inner .image-holder {
+          margin: -70px -34px;
+     }
+
+     .report-sec .report-inner {
+          padding: 0px 24px 0px 72px;
+     }
+
+     .dropdown, .dropend, .dropstart, .dropup {
+          position: static;
+     }
+
+     header .container {
+          position: relative;
+     }
+
+     .contact-page .hero-sec .text-box p br {
+          display: none;
+     }
+
+     .office-box {
+          margin-top: 20px;
+     }
+
+     .market-page .hero-sec .text-box p {
+          font-size: 24px;
+          margin-top: 16px;
+     }
+
+     .market-page .hero-sec .text-box h1 {
+          font-size: 62px;
+          line-height: 82px;
+     }
+
+     .feedback-box {
+          min-height: 692px;
+     }
+
+     .market-page .hero-sec .img-holder {
+          bottom: -70px;
+     }
+
+     .client-box li {
+          height: 152px;
+          padding: 24px;
+     }
+
+     .service-page .report-sec .report-inner {
+          padding: 0px 34px 0px 72px;
+     }
+
+     .newsletter-box {
+          padding: 40px;
+     }
+
+     .product-page .product-slider,
+     .service .product-slider {
+          padding-left: calc(50vw - 460px) !important;
+     }
+
+     .product-sec .swiper-indicator {
+          max-width: 922px;
+     }
+
+     .resource-sec.resource-sec2 {
+          padding: 54px 0px;
+     }
+
+     .product-page .accelerat-sec.contact-sec .text-box {
+          padding: 20px 0px;
+     }
+
+     .product-inner .mySwiper2 {
+          margin-top: 112px;
+          padding-bottom: 40px;
+     }
+
+     .service-page .hero-sec {
+          position: relative;
+     }
+
+     .service-page .hero-right {
+          bottom: 0;
+          max-width: 600px;
+     }
+
+     .service-sec .swiper-indicator {
+          display: flex;
+     }
+
+     .accordion-boxes .accordion-body {
+          padding: 0px 24px 24px 56px;
+     }
+
+
+
+     .swiper-indicator {
+          max-width: 878px;
+     }
+
+     .slider-box .right-content h4 {
+          font-size: 24px;
+     }
+
+     .slider-box .right-content {
+          padding: 32px;
+          width: 100%;
+          min-height: 100%;
+     }
+
+     .events-slider, .resource-slider, .related-slider, .studie-slider2, .product-slider, .customer-slider {
+          padding-left: calc(50vw - 448px) !important;
+     }
+
+     .box-footer {
+          padding: 40px;
+     }
+
+     .slider-box .left-content {
+          max-width: 444px;
+     }
+
+     .slider-box .right-content h4 {
+          line-height: 30px;
+     }
+
+     .accordion-boxes .accordion-button {
+          padding: 17.5px 20px;
+          font-size: 16px;
+     }
+
+     .accordion-boxes .accordion-button span {
+          margin-right: 11px;
+     }
+
+     .image-wrap {
+          margin-left: -27px;
+          bottom: -38px;
+     }
+
+     .accordion-boxes .accordion-body p {
+          font-size: 14px;
+     }
+
+     .accordion.accordion-boxes {
+          margin-top: 32px;
+     }
+
+     .image-wrap {
+          bottom: -47px;
+     }
+
+     .hero-sec .img-holder {
+          bottom: -92px;
+          right: -16px;
+          width: 221px;
+     }
+
+     .accelerat-sec .image-holder {
+          margin: -50px 0px;
+          left: 18px;
+     }
+}
+
+@media (max-width: 991px) {
+     .hero-sec .img-holder {
+          display: none;
+     }
+
+
+     .modal {
+          z-index: 99999;
+     }
+
+     .hero-sec h1 {
+          max-width: 400px;
+     }
+
+
+     .about-page .team-sec .swiper-indicator {
+          display: flex;
+          justify-content: end;
+     }
+
+     .top-nav .top-nav-list {
+          display: none;
+     }
+
+     #navbarNav a[aria-expanded="true"]::after {
+          transform: rotate(180deg);
+     }
+
+     .navbar .nav-item .nav-link {
+          position: relative;
+     }
+
+     header .dropdown-toggle::after {
+          position: absolute;
+          top: 50%;
+          right: 24px;
+          transform: translate(0, -50%);
+     }
+
+     .navbar-toggler-icon {
+          width: 100%;
+          height: 100%;
+     }
+
+     header .navbar-brand {
+          padding: 0;
+     }
+
+     header .navbar-toggler {
+          padding: 0;
+          border: none;
+     }
+
+     .report-sec .report-inner .image-holder {
+          margin: -70px 0px;
+     }
+
+     .navbar .dropdown-menu {
+          min-width: 100%;
+     }
+
+     .purpose-para {
+          max-width: 265px;
+     }
+
+     .cookie-sec .table tbody tr td:first-child {
+          max-width: 142px;
+     }
+
+     .contact-page .hero-sec .text-box {
+          padding-top: 56px;
+     }
+
+     .contact-page .hero-sec .contact-box {
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 20px;
+     }
+
+     .contact-page .hero-sec .text-box {
+
+          max-width: 630px;
+          margin: 0 auto;
+     }
+
+     .contact-page .hero-right {
+          margin-top: 0;
+     }
+
+     .market-page .journey-sec h5 {
+          margin-top: 24px;
+     }
+
+     .clients-sec .text-box {
+          margin: 48px 0px 32px;
+     }
+
+     .client-box {
+          margin: -53px 0px 0px;
+     }
+
+     .about-page .journey-sec h5 {
+          margin-top: 24px;
+     }
+
+     .meeting-list {
+          margin-top: 24px;
+     }
+
+     .service-page .hero-sec .hero-right {
+          max-width: 520px;
+     }
+
+     .product-page .product-slider,
+     .service .product-slider {
+          padding-left: calc(50vw - 350px) !important;
+     }
+
+     .product-page .accelerat-sec.contact-sec .image-holder {
+          left: 0px;
+          margin-bottom: 44px;
+     }
+
+     .product-sec .swiper-indicator {
+          max-width: 706px;
+     }
+
+     .service-page .hero-right {
+          margin-left: 0;
+          bottom: 0;
+     }
+
+     .overview-sec h5 {
+          margin-top: 24px;
+     }
+
+     .accordion-boxes .accordion-button {
+          padding: 17.5px 20px;
+          font-size: 18px;
+     }
+
+     .nav {
+          display: block;
+     }
+
+     header .navbar .nav-tabs .nav-link {
+          font-size: 16px;
+          padding: 14px 48px 16px;
+          max-width: 100%;
+          margin-bottom: 0px;
+          width: 100%;
+          background-color: var(--gray-1000);
+          min-height: 90px;
+          border-right: none;
+          border-bottom: 1px solid var(--fog) !important;
+     }
+
+     .navbar .nav-item .nav-link {
+          border-bottom: 1px solid var(--fog) !important;
+          border-radius: 0px;
+     }
+
+     header .navbar .nav-tabs li:first-child .nav-link {
+          border-radius: 0px;
+     }
+
+     header .navbar .nav-tabs li:last-child .nav-link {
+          border-radius: 0px;
+     }
+
+     .navbar .nav-item .nav-link.show {
+          background-color: transparent;
+          border-radius: 0px;
+     }
+
+     header .navbar .dropdown-menu {
+          margin-top: 0px;
+     }
+
+     header .navbar .nav-tabs .nav-link span {
+          margin-top: 4px;
+     }
+
+     header .tab-content {
+          display: none;
+     }
+
+     header .container {
+          position: static;
+     }
+
+     .navbar-collapse {
+          background: #fff;
+          width: 100%;
+          padding: 19px 0px 0px;
+          position: absolute;
+          overflow: scroll;
+          height: 100vh;
+          top: 62px;
+          left: 0;
+          z-index: 99999;
+     }
+
+
+
+     header .dropdown-item span {
+          display: block;
+          font-size: var(--fs-12);
+          font-weight: 300;
+     }
+
+     header .btn-list {
+          justify-content: start;
+          margin-top: 24px;
+          padding-bottom: 100px;
+     }
+
+     header .btn-list .btn-contact {
+          display: none;
+     }
+
+     header .dropdown-item {
+          background-color: var(--gray-1000);
+          padding: 14px 48px 18px;
+          color: var(--forest-green);
+          font-weight: 600;
+          border-bottom: 1px solid var(--fog);
+     }
+
+     .swiper-indicator {
+          max-width: 685px;
+     }
+
+     .resource-sec {
+          padding: 48px 0px;
+     }
+
+     .contact-sec {
+          margin: 70px 0px 100px;
+     }
+
+     .newsletter-box {
+          padding: 22px;
+     }
+
+     .swiper-pagination-progressbar.swiper-pagination-horizontal {
+          flex: 1;
+     }
+
+     .image-wrap {
+          bottom: 0;
+     }
+
+     .slider-box {
+          display: block;
+          max-width: 590px;
+     }
+
+     .slider-box .right-content {
+          border-radius: 0px 0px 12px 12px;
+     }
+
+     .slider-box .left-content img {
+          border-radius: 12px 12px 0px 0px;
+     }
+
+
+     .report-sec .report-inner .text-box {
+          margin-top: 115px;
+          padding-bottom: 48px;
+     }
+
+     .events-slider, .resource-slider, .related-slider, .studie-slider2, .product-slider, .customer-slider {
+          padding-left: calc(50vw - 348px) !important;
+     }
+
+     .report-sec {
+          margin: 80px 0px;
+     }
+
+     .slider-box .left-content {
+          max-width: 100%;
+     }
+
+     .accordion-boxes .accordion-body p {
+          font-size: 16px;
+     }
+
+     .accordion-boxes .accordion-body {
+          padding: 0px 24px 24px 24px;
+     }
+
+     .btn-watch {
+          right: -66px;
+          transform: rotate(270deg);
+          bottom: auto;
+          top: 202px;
+     }
+
+
+     .accordion.accordion-boxes {
+          margin-top: 72px;
+     }
+
+     h3 {
+          font-size: 32px;
+          line-height: 40px;
+     }
+
+     .accelerat-sec {
+          padding-bottom: 48px;
+     }
+
+     .team-sec .img-holder {
+          margin-top: 40px;
+     }
+
+     .about-page .cards-sec .card {
+          min-height: 315px;
+     }
+
+
+     .accelerat-sec .image-holder {
+          left: 0px;
+          margin-bottom: 44px;
+     }
+
+     .service .accelerat-sec .image-holder {
+          left: 0px;
+          margin-bottom: 44px;
+     }
+
+     .about-page .journey-sec .text-box {
+          margin-right: 0px;
+     }
+
+     .team-sec .nav-tabs {
+          display: flex;
+     }
+}
+
+@media (max-width: 767px) {
+     .report-sec .report-inner {
+          padding: 0px 0px 0px 40px;
+     }
+
+     .cross-icon {
+          display: block;
+     }
+
+     .bottom-nav ul {
+          overflow: scroll;
+     }
+
+     .bottom-nav.newClass {
+          top: 78px;
+     }
+
+     .bottom-nav ul {
+          grid-gap: 18px;
+     }
+
+     .service-sec .swiper-indicator {
+          position: relative;
+          z-index: 99999;
+     }
+
+     .product-page .service-page .hero-sec {
+          padding-bottom: 48px;
+     }
+
+     .home-page .hero-sec .text-box {
+          margin-left: 15px;
+     }
+
+
+
+     .table-inner {
+          overflow: scroll;
+     }
+
+     .purpose-para {
+          max-width: 400px;
+     }
+
+     .cookie-sec .table tbody tr td:first-child {
+          max-width: 196px;
+     }
+
+     .table-inner .table {
+          width: 778px;
+     }
+
+     .cookies-para {
+          margin-bottom: 36px;
+     }
+
+     .office-inner {
+          padding-top: 32px;
+     }
+
+     .offices-sec {
+          margin: 72px 0px;
+     }
+
+     .market-page .journey-sec {
+          padding: 72px 0px;
+     }
+
+     .feedback-box h4 {
+          font-size: 22px;
+     }
+
+     .product-page .hero-sec ul {
+          display: block;
+     }
+
+     .about-page .journey-sec {
+          padding: 72px 0px 72px;
+     }
+
+     .service-page .hero-sec .hero-right {
+          margin-left: 0px;
+          bottom: 0;
+          right: 0;
+     }
+
+     .service-page .hero-sec {
+          padding-bottom: 343px;
+     }
+
+     .service-page .hero-sec .text-box {
+          padding-bottom: 0px;
+     }
+
+     .heading-space {
+          margin-bottom: 48px;
+     }
+
+     .product-page .service-page .accordion-boxes .accordion-body {
+          padding: 0px 50px 30px;
+     }
+
+     .product-page .accordion.accordion-boxes {
+          margin-top: 48px;
+     }
+
+     .related-sec.resource-sec {
+          padding: 72px 0px;
+     }
+
+     .service-page .product-sec h3 {
+          margin-top: 0px;
+     }
+
+     .service-page .resource-sec .swiper-indicator {
+          margin: 24px auto 0px;
+     }
+
+     .product-page .product-slider,
+     .service .product-slider {
+          padding: 0px !important;
+     }
+
+     .swiper-indicator .swiper-button-next, .swiper-indicator .swiper-button-prev {
+
+          width: 48px;
+          height: 48px;
+          padding: 12px;
+     }
+
+
+     .product-sec .swiper-indicator {
+          max-width: 522px;
+          justify-content: start;
+          margin: 0 auto;
+     }
+
+     .cards-sec h3 {
+          margin-bottom: 28px;
+     }
+
+     .accordion-boxes .accordion-button {
+          align-items: center;
+     }
+
+     .product-page .service-page .accelerat-sec .text-box p {
+          margin: 0px 0px;
+     }
+
+     .overview-box {
+          grid-template-columns: 12fr;
+     }
+
+     .product-page .hero-sec ul .btn-quote {
+          margin-bottom: 20px;
+     }
+
+     .socail-list {
+          margin-top: 15px;
+     }
+
+     .top-nav .top-nav-list {
+          display: none;
+     }
+
+     .swiper-indicator {
+          max-width: 510px;
+     }
+
+     .events-slider, .resource-slider, .related-slider, .studie-slider2, .product-slider, .customer-slider {
+          max-width: 510px;
+     }
+
+     .box-footer h4 {
+          -webkit-line-clamp: 4;
+          line-clamp: 4;
+     }
+}
+
+@media (max-width: 575px) {
+     .container {
+          padding: 0px 24px;
+     }
+
+     .service .service-page .journey-sec h3 {
+          font-size: 28px;
+     }
+
+     .hero-sec h1::after {
+          content: none;
+     }
+
+     .hero-sec h1 {
+          max-width: 352px;
+     }
+
+     .home-page .hero-sec h1 span {
+          margin-left: -15px;
+          padding: 0px 18.5px 0px;
+          line-height: 43px;
+     }
+
+     .form-box {
+          padding: 30px 20px;
+     }
+
+     .product-sec .swiper-indicator {
+          margin: 0 24px;
+     }
+
+     .product-page .product-slider,
+     .service .product-slider {
+          padding: 0px 24px !important;
+          max-width: 100%;
+     }
+
+     .bottom-nav ul {
+          grid-gap: 24px;
+     }
+
+
+
+     .service .meeting-sec h5 {
+          font-size: 18px;
+          line-height: 25px;
+     }
+
+     .service-page .resource-sec .swiper-indicator {
+          margin: 24px 24px 0px;
+     }
+
+     .about-page .team-sec .swiper-indicator {
+          display: flex;
+          margin-right: 0px;
+     }
+
+     .about-page .event-sec .events-slider3.swiper-horizontal {
+          padding-top: 0px !important;
+     }
+
+     .team-sec .team-cards {
+          margin-top: 40px;
+          padding: 86px 0px 0px;
+     }
+
+     .accordion-button:not(.collapsed)::after {
+          margin-top: 0px;
+     }
+
+     .service-sec .swiper-indicator {
+          margin-right: 0px;
+     }
+
+     .market-page .hero-sec .text-box h1 {
+          font-size: 38px;
+          line-height: 62px;
+     }
+
+     .market-page .hero-sec .text-box p {
+          font-size: 18px;
+          margin-top: 12px;
+     }
+
+     .cookies-modal .modal-content {
+          padding: 48px 24px;
+     }
+
+     .cookies-modal .modal-content .img-holder {
+          margin-bottom: 24px;
+     }
+
+     .navbar .nav-item .nav-link {
+          margin-right: 0px;
+     }
+
+     .feedback-box {
+          min-height: 475px;
+     }
+
+
+
+     .service-page .hero-sec {
+          padding-bottom: 236px;
+     }
+
+
+     .feedback-box h4 {
+          font-size: 20px;
+     }
+
+     .team-sec .team-cards .service-circle {
+          max-width: 261px;
+     }
+
+     .about-page .service-sec .service-slider {
+          padding-top: 120px;
+     }
+
+     .about-page .service-sec .service-slider2 {
+          padding-top: 120px;
+     }
+
+     .about-page .event-sec .swiper-horizontal {
+          padding-top: 72px !important;
+          padding-bottom: 20px !important;
+     }
+
+     .client-box {
+          grid-gap: 10px;
+     }
+
+     .clients-sec {
+          margin-top: 72px;
+     }
+
+     .team-sec .team-inner {
+          padding: 48px 24px;
+          margin-top: 120px;
+     }
+
+     .team-sec .service-circle {
+          height: 244px;
+          max-width: 322px;
+     }
+
+     .client-box li {
+          height: 110px;
+          padding: 18px;
+     }
+
+     .service-circle {
+          width: 100%;
+          margin: -24px auto 0px;
+          max-width: 263px;
+     }
+
+
+
+     .service-page .hero-sec .text-box p {
+          margin-top: 9px;
+     }
+
+     .service-page .hero-sec .text-box {
+          padding-top: 16px;
+     }
+
+     .meeting-sec {
+          padding-bottom: 100px;
+     }
+
+     .service .service-page .accelerat-sec .image-holder {
+          left: 0;
+     }
+
+     .service .accordion.accordion-boxes {
+          margin-top: 48px;
+     }
+
+     .heading {
+          margin-bottom: 8px;
+     }
+
+     .service .service-page .choose-sec {
+          padding: 72px 0px 72px;
+     }
+
+     .service .service-page .choose-sec .image-holder {
+          margin: 0px 0px 48px;
+     }
+
+     .service .service-page .report-sec .report-inner {
+          padding: 0px 24px 0px 24px;
+     }
+
+     .service .service-page .event-sec {
+          padding: 48px 0px 56px;
+     }
+
+     .customer-box {
+          padding: 24px;
+          border-radius: 12px;
+     }
+
+     .event-sec .customer-slider .swiper-wrapper {
+          padding: 14px 0px;
+     }
+
+     .service .service-page .swiper-indicator {
+          max-width: 100%;
+          margin-right: 24px !important;
+     }
+
+     .service .customer-box h5 {
+          font-size: 18px;
+          line-height: 25px;
+          min-height: 250px;
+     }
+
+     .service .customer-slider {
+          margin-top: 36px;
+     }
+
+     .service .resource-sec {
+          padding: 48px 0px 168px;
+     }
+
+     .service .report-sec {
+          margin: 72px 0px 32px;
+     }
+
+     .service-page .product-sec {
+          margin-top: 72px;
+     }
+
+     .service .accelerat-sec {
+          padding-bottom: 64px;
+     }
+
+     .service-page .journey-sec {
+          padding: 72px 0px 72px;
+     }
+
+     .cards-sec .card p {
+          min-height: 100%;
+     }
+
+     .product-page .accelerat-sec.contact-sec .text-box {
+          padding: 4px 0px 20px;
+     }
+
+     .product-page .contact-sec {
+          margin: 62px 0px 72px;
+     }
+
+     .product-page .service-page .accelerat-sec .text-box p {
+          margin: 12px 0px;
+     }
+
+     header .navbar .nav-tabs .nav-link span {
+          max-width: 234px;
+     }
+
+     .service-box .service-slider .text-box p {
+          min-height: 66px;
+     }
+
+     footer {
+          padding: 0px 0px;
+     }
+
+     footer .form .input-group .btn {
+          border-radius: 0px 6px 6px 0px !important;
+          margin-left: 12px !important;
+          position: absolute;
+          top: 0;
+          right: 0;
+          width: 48px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 48px;
+          padding: 0;
+          border-radius: 0px;
+     }
+
+     .footer-list {
+          margin-top: 24px;
+          margin-bottom: 48px;
+     }
+
+     .socail-list {
+          margin-top: 0px;
+          padding: 24px 0px;
+     }
+
+     .home-page .logo-box {
+          margin-top: -92px;
+          display: flex;
+          height: 90px;
+          width: 90px;
+          padding: 12px 23px 17px;
+     }
+
+     .logo-card {
+          display: block;
+     }
+
+     .slider-box .left-content img {
+          height: 100%;
+          max-height: 204px;
+          width: 100%;
+          object-fit: cover;
+     }
+
+     .bottom-footer {
+          margin-top: 0px;
+          padding: 16px 0px 32px;
+     }
+
+     .logo-card {
+          padding: 48px 0px 32px;
+          border-bottom: 1px solid rgba(214, 224, 224, 0.2);
+          margin-bottom: 25px;
+     }
+
+     .newsletter-box {
+          padding: 48px 30px 24px 24px;
+          margin: 0px -24px;
+          border-radius: 0px;
+     }
+
+     .top-footer {
+          display: none;
+     }
+
+     .accordion-button::after {
+          margin-top: 10px;
+     }
+
+     .service-sec .service-slider {
+          padding-top: 127px;
+     }
+
+     .service-sec .service-slider .text-box {
+          margin: 24px auto 0px;
+     }
+
+     .swiper-indicator {
+          margin-left: auto;
+          justify-content: end;
+     }
+
+     h1 {
+          font-size: 38px;
+          line-height: 48px;
+     }
+
+     h3 {
+          font-size: 24px;
+          line-height: 33px;
+     }
+
+
+     .accordion-boxes .accordion-button {
+          padding: 12px 16px 8px;
+          font-size: 18px;
+          align-items: start;
+          line-height: 25px;
+     }
+
+     .accordion-boxes .accordion-button span {
+          margin-top: 4px;
+     }
+
+     .accordion-boxes .accordion-body {
+          padding: 0px 60px 16px 48px;
+     }
+
+     .btn-view {
+          margin: 39px 0 14px auto;
+     }
+
+     .slider-box .right-content {
+          padding: 24px;
+     }
+
+     .slider-box .right-content h4 {
+          font-size: 18px;
+          margin-bottom: 32px;
+          line-height: 25px;
+          max-width: 240px;
+     }
+
+     .choose-sec .image-holder .play-btn {
+          width: 72px;
+          height: 72px;
+          padding: 0;
+     }
+
+     .choose-sec .image-holder .play-btn svg {
+          position: absolute;
+          top: 50%;
+          width: 18px;
+          height: 24px;
+          left: 55%;
+          transform: translate(-50%, -50%);
+     }
+
+     .report-sec .report-inner .image-holder {
+          margin: -24px 0px -70px;
+     }
+
+     .report-sec {
+          margin: 72px 0px;
+     }
+
+     .swiper-indicator {
+          margin-right: 24px;
+          grid-gap: 8px;
+     }
+
+     .product-slider .swiper-wrapper {
+          padding: 48px 0px 11px;
+     }
+
+     h4 {
+          font-size: 24px;
+          line-height: 33px;
+     }
+
+     .resource-sec {
+          padding: 72px 0px;
+     }
+
+     .accelerat-sec.contact-sec .image-holder {
+          left: 0;
+     }
+
+     .form .form-control {
+          max-width: 100%;
+          width: 100%;
+     }
+
+     .contact-sec {
+          margin: 42px 0px 96px;
+     }
+
+     .accelerat-sec .form .input-group .btn {
+          margin-left: 0px !important;
+          margin-top: 12px;
+          display: inline-block;
+     }
+
+     .input-group {
+          display: block;
+     }
+
+     .box-footer h4 {
+          margin: 12px 0px 63px;
+     }
+
+     .box-footer {
+          padding: 24px;
+     }
+
+     .studie-sec .swiper-indicator {
+          margin-right: 0px;
+     }
+
+     .events-slider, .resource-slider, .related-slider, .studie-slider2, .product-slider, .customer-slider {
+          padding: 0px 24px !important;
+     }
+
+     .report-sec .report-inner {
+          padding: 0px 16px 0px 24px;
+     }
+
+     .studie-sec {
+          padding: 74px 0px;
+     }
+
+     .swiper-pagination-progressbar.swiper-pagination-horizontal {
+          opacity: 0;
+     }
+
+     .slider-box .right-content p {
+          display: none;
+     }
+
+     .image-wrap {
+          margin-left: -10px;
+     }
+
+     .service-sec {
+          padding: 72px 0px;
+     }
+
+     p {
+          line-height: 22px;
+     }
+
+     .accelerat-sec .image-holder {
+          left: 10px;
+          margin: -31px 0px 44px;
+     }
+
+     .service .accelerat-sec .image-holder {
+          left: 10px;
+          margin: -31px 0px 44px;
+     }
+
+     h2 {
+          font-size: 28px;
+          line-height: 38px;
+     }
+
+     .btn-watch {
+          bottom: auto;
+          top: 202px;
+     }
+
+     .hero-sec .text-box {
+          padding-top: 28px;
+          margin-left: 0px;
+     }
+
+     .journey-sec {
+          padding: 72px 0px 114px;
+     }
+
+     .hero-right {
+          margin-top: 28px;
+          margin-right: -10px;
+     }
+
+     .hero-sec .text-box p {
+          margin-top: 18px;
+          font-size: 16px;
+          line-height: 22px;
+          max-width: 225px;
+     }
+}
+
+@media (max-width: 400px) {
+     .team-sec .service-circle {
+          max-width: 264px;
+     }
+
+     .team-sec .team-inner {
+          margin-top: 70px;
+     }
+}

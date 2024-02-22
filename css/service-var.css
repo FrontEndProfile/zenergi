@@ -1,0 +1,32 @@
+:root {
+     --fog: #EBEAEB;
+     --fog-20: rgba(235, 234, 235, 0.20);
+     --forest-green: #052828;
+     --amber: #FFA329;
+     --white: #fff;
+     --black: #000;
+     --gray-1000: #F5F5F5;
+     --dark-amber: #FF9100;
+     --orange: #FF5F00;
+     --dark-forest: #0E2020;
+     --charcoal: #585858;
+     --amber-50: #FFEDD4;
+     --sand: #FFE6B3;
+     --sky-blue: #C6DCF5;
+     --sky-blue-50: #E2EDFA;
+     --pale-forest: #D6E0E0;
+     --stone: #DFD7CD;
+     --sage-green: #C6E1C6;
+     /* ====== font-size ===== */
+     --fs-10: 10px;
+     --fs-14: 14px;
+     --fs-12: 12px;
+     --fs-16: 16px;
+     --fs-22: 22px;
+     --fs-28: 28px;
+     --fs-h1: 80px;
+     --fs-h2: 48px;
+     --fs-h3: 38px;
+     --fs-h4: 30px;
+     --fs-h6: 24px;
+}
